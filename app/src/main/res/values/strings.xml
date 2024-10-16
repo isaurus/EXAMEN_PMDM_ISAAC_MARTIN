@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EXAMEN_PMDM_ISAAC_MARTIN</string>
+    <string name="lbl_titulo_encuesta">ENCUESTA POPULAR</string>
+    <string name="hint_nombre">Nombre persona encuestada</string>
+    <string name="lbl_genero">Género:</string>
+    <string name="rbt_hombre">Hombre</string>
+    <string name="rbt_mujer">Mujer</string>
+    <string name="rbt_otro">Otro</string>
+    <string name="lbl_mayor_de_edad">Es mayor de edad:</string>
+    <string name="lbl_pregunta">Pregunta:</string>
+    <string name="lbl_respuestas">Respuestas:</string>
+    <string name="chk_mostrar_informacion_log">Mostrar información por Log</string>
+    <string name="btn_enviar_respuesta">Enviar Respuesta</string>
+    <string-array name="spn_menor_edad">
+        <item>¿Con qué frecuencia practicas deporte?</item>
+        <item>¿Qué tipo de videojuegos te gustan más?</item>
+    </string-array>
+    <string-array name="spn_mayor_edad">
+        <item>¿Cuál es tu salario anual?</item>
+        <item>¿A qué partido político votarías?</item>
+    </string-array>
+    <string-array name="rbtg_respuestas">
+        <item>Nunca</item>
+        <item>En ocasiones</item>
+        <item>Frecuentemente</item>
+        <item>Shooter</item>
+        <item>MOBA</item>
+        <item>Plataformas</item>
+        <item>Menos de 15K</item>
+        <item>Entre 15K y 18K</item>
+        <item>Más de 18K</item>
+        <item>PSOE</item>
+        <item>PP</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="rbt_menor_edad_respuesta_1">Nunca</string>
+</resources>
