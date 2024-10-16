@@ -60,18 +60,18 @@ public class MainActivity extends AppCompatActivity {
         rbtRespuestaTres = findViewById(R.id.rbtRespuestaTres);
 
         arrayRespuestas = new String[]{
-                "Nunca",
-                "En ocasiones",
-                "Frecuentemente",
-                "Shooter",
-                "MOBA",
-                "Plataformas",
-                "Menos de 15K",
-                "Entre 15K y 18K",
-                "Más de 18K",
-                "PSOE",
-                "PP",
-                "Otro"
+                getText(R.string.rbt_menor_edad_respuesta_1).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_2).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_3).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_4).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_5).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_6).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_1).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_2).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_3).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_4).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_5).toString(),
+                getText(R.string.rbt_menor_edad_respuesta_6).toString(),
         };
 
         // Acoplamiento de EditText a XML

@@ -19,19 +19,16 @@
         <item>¿Cuál es tu salario anual?</item>
         <item>¿A qué partido político votarías?</item>
     </string-array>
-    <string-array name="rbtg_respuestas">
-        <item>Nunca</item>
-        <item>En ocasiones</item>
-        <item>Frecuentemente</item>
-        <item>Shooter</item>
-        <item>MOBA</item>
-        <item>Plataformas</item>
-        <item>Menos de 15K</item>
-        <item>Entre 15K y 18K</item>
-        <item>Más de 18K</item>
-        <item>PSOE</item>
-        <item>PP</item>
-        <item>Otro</item>
-    </string-array>
     <string name="rbt_menor_edad_respuesta_1">Nunca</string>
+    <string name="rbt_menor_edad_respuesta_2">En ocasiones</string>
+    <string name="rbt_menor_edad_respuesta_3">Frecuentemente</string>
+    <string name="rbt_menor_edad_respuesta_4">Shooter</string>
+    <string name="rbt_menor_edad_respuesta_5">MOBA</string>
+    <string name="rbt_menor_edad_respuesta_6">Plataformas</string>
+    <string name="rbt_mayor_edad_respuesta_1">Menos de 15K</string>
+    <string name="rbt_mayor_edad_respuesta_2">Entre 15K y 18K</string>
+    <string name="rbt_mayor_edad_respuesta_3">Más de 18K</string>
+    <string name="rbt_mayor_edad_respuesta_4">PSOE</string>
+    <string name="rbt_mayor_edad_respuesta_5">PP</string>
+    <string name="rbt_mayor_edad_respuesta_6">Otro</string>
 </resources>
